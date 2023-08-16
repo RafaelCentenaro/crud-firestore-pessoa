@@ -87,7 +87,7 @@ Clique no botão "criar um projeto".
 ### 12º Agora vamos gerar arquivo de credencial. Clique em "Configurações do projeto"
 ![](img/12.png))
 ### 13º Selecione java e clique em "Gerar nova chave privada"
-![](img/14.png)
+![](img/13.png)
 
 ### 14º Clique em "Gerar chave"
 ![](img/14.png)
